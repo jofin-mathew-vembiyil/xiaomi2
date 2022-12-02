@@ -141,7 +141,7 @@ body{
     width: 50%;
     height: 500px;
     background-color: chartreuse;
-    background-image: url(/mi/mi\ images/M3.jpg);
+    background-image: url(mi\ images/M3.jpg);
     background-size: cover;
     
 }
@@ -175,7 +175,7 @@ body{
 .subsection2{
     width: 50%;
     height: 500px;
-    background-image: url(/mi/mi\ images/MI3.jpg);
+    background-image: url(mi\ images/MI3.jpg);
     background-size: cover;
     background-color: rgb(23, 192, 214);
 }
@@ -220,7 +220,7 @@ body{
     width: 50%;
     height:500px ;
     background-color:#fff;
-    background-image: url(/mi/mi\ images/33d21f3ab9a5a6e2cbfb50aaf385e89e.webp);
+    background-image: url(mi\ images/33d21f3ab9a5a6e2cbfb50aaf385e89e.webp);
     background-size: cover;
 }
 #sec4subsec1head{
@@ -245,7 +245,7 @@ body{
     width: 25%;
     height:500px ;
     background-color: rgb(179, 34, 34);
-    background-image: url(/mi/mi\ images/misec3.webp);
+    background-image: url(mi\ images/misec3.webp);
     background-size: cover;
 }
 #sec4subsec2head1{
@@ -272,7 +272,7 @@ body{
     width: 25%;
     height:500px ;
     background-color: rgb(43, 205, 10);
-    background-image: url(/mi/mi\ images/img21-1.webp);
+    background-image: url(mi\ images/img21-1.webp);
     background-size: cover;
 }
 #sec4subsec3head1{
